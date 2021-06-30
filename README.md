@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Darkosoftware
+- 🌱 I’m currently learning python and java.
+- 💞️ I’m looking to collaborate on any software projects related to finance or gaming. 
+- 📫 Reach me on here!
